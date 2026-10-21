@@ -353,7 +353,7 @@ static void uiAbout() {
 
 	cls(1);
 	drawTabs();
-	drawMenuText("S8DS - Sega 8bit emulator", 4, 0);
+	drawMenuText("Sonic System Collection", 4, 0);
 
 	drawMenuText("B:      Button 1", 6, 0);
 	drawMenuText("A:      Button 2", 7, 0);
